@@ -16,7 +16,7 @@
   <?php include "../layout/navigasi.php"; ?>
 
   <!-- ISI -->
-  <div class="container" style="min-height: 600px;">
+  <div class="container" style="min-height: 400px;">
     <div class="row">
       <div class="col-xd-12">
 
