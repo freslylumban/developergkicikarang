@@ -16,14 +16,51 @@
   <?php include "../layout/navigasi.php"; ?>
 
   <!-- ISI -->
-  <div class="container" style="min-height: 400px;" >
+  <div class="container warta-jemaat" style="min-height: 400px;" >
     <div class="row">
       <div class="col-xd-12 text-center">
         <h1>Warta Jemaat Bulan <?php date_default_timezone_set('Asia/Jakarta'); echo date("F Y"); ?></h1>
-        <a href="#"><p>Warta Jemaat, Minggu, 15 Juli  2018.</p></a>
-        <a href="#"><p>Warta Jemaat, Minggu, 8 Juli  2018.</p></a>
-        <a href="#"><p>Warta Jemaat, Minggu, 1 Juli 2018.</p></a>
       </div>
+
+      <div class="col-xd-12 warta-button">
+        <button class="btn btn-primary btn-lg btn-block" type="button" name="button">
+          <a style="color: white;" href="../file/warta-jemaat-15-juli-2018.pdf">Warta Jemaat, Minggu, 9 Sept 2018.</a>
+        </button> <br>
+      </div>
+
+      <div class="col-xd-12 warta-view-pdf text-center">
+        <embed src="../file/warta-jemaat-15-juli-2018.pdf" type="application/pdf" width="90%" height="600">
+      </div>
+
+      <div class="col-xd-12 warta-button">
+        <button class="btn btn-primary btn-lg btn-block" type="button" name="button">
+          <a style="color: white;" href="#">Warta Jemaat, Minggu, 2 Sept 2018.</a>
+        </button>
+      </div>
+
+      <div class="col-xd-12 text-center">
+        <h1>Warta Jemaat Bulan Agustus 2018</h1>
+      </div>
+      <div class="col-xd-12 warta-button">
+        <button class="btn btn-primary btn-lg btn-block" type="button" name="button">
+          <a style="color: white;" href="#">Warta Jemaat, Minggu, 26 Agustus 2018.</a>
+        </button>
+      </div>
+      <div class="col-xd-12 warta-button">
+        <button class="btn btn-primary btn-lg btn-block" type="button" name="button">
+          <a style="color: white;" href="#">Warta Jemaat, Minggu, 19 Agustus 2018.</a>
+        </button>
+      </div>
+      <div class="col-xd-12 warta-button">
+        <button class="btn btn-primary btn-lg btn-block" type="button" name="button">
+          <a style="color: white;" href="#">Warta Jemaat, Minggu, 12 Agustus 2018.</a>
+        </button>
+      </div>
+      <div class="col-xd-12 warta-button">
+        <button class="btn btn-primary btn-lg btn-block" type="button" name="button">
+          <a style="color: white;" href="#">Warta Jemaat, Minggu, 5 Agustus 2018.</a>
+        </button>
+      </div><br><br>
     </div>
   </div>
 
