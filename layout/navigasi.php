@@ -5,7 +5,7 @@
       <!-- Topper w/ logo -->
       <div class="row hidden-xs topper">
         <div class="col-xs-7 col-sm-7">
-          <a href="www.gkicikarang.com">
+          <a href="www.gkicikarang.org">
             <img am-TopLogo alt="SECUREVIEW" src="../assets/images/logo_gkicikarang.png" class="img-responsive">
           </a>
         </div>
