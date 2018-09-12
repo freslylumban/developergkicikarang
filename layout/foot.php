@@ -16,7 +16,7 @@
                   <h5>Telp/Fax:</h5>
                   <p>021-89900165</p>
                   <h5>e-mail:</h5>
-                  <p>admin@gkicikarang.com</p>
+                  <p>admin@gkicikarang.org</p>
               </div>
               <div class="col-xs-6 col-sm-6 col-md-3 footerbatas">
                   <div class="page-header text-center">
